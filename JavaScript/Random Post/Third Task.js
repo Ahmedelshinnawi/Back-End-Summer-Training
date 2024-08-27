@@ -5,4 +5,4 @@ let Data = async () => {
     document.getElementById('Post').innerText = random.body;
 }
 Data();
-setInterval(Data, 6000);
+setInterval(Data, 60000);
