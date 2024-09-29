@@ -8,11 +8,13 @@
 
 
   ## Task1:
+  - Implementing some of the basic points in JavaScript (Datatype, Scopes, Hoisiting...) 
   - [Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/First%20Session.js)
 
 
 
   ## Task2:
+   - Implementing some other points in JS (If-else statement, Switch, Loops)
    - [Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Second%20Session.js)
 
      
