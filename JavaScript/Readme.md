@@ -19,14 +19,14 @@
 
      
   ## Random Post:
-  - Display random post every minute
+  - Display random post every minute using `Async/Await` and `Dom Mainpulation`
   - **[Live Demo](https://ahmedelshinnawi.github.io/Back-End-Summer-Training/JavaScript/Random%20Post/Index)**
   - **Code**:
     - [JavaScript Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Random%20Post/Third%20Task.js)
     - [HTML Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Random%20Post/Index.html)
  
   ## Display Image:
-  - Display Images in order every minute
+  - Display Images in order every minute using `Async/Await` and `Dom Mainpulation`
   - **[Live Demo](https://ahmedelshinnawi.github.io/Back-End-Summer-Training/JavaScript/Display%20images/index)**
   - **Code**:
     - [JavaScript Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Display%20images/app.js)
