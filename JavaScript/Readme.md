@@ -2,30 +2,32 @@
 
 - [Task 1](#Task1)
 - [Task 2](#Task2)
-- Task 3 about [Random Post](#Random_Post)
-- Task 4 about [Display Image](#Display_Image)
+- Task 3 about [Random Post](#random-post)
+- Task 4 about [Display Image](#display-image)
 
 
 
   ## Task1:
   - Implementing some of the basic points in JavaScript (Datatype, Scopes, Hoisiting...) 
-  - [Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/First%20Session.js)
+  - **[Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/First%20Session.js)**
 
 
 
   ## Task2:
    - Implementing some other points in JS (If-else statement, Switch, Loops)
-   - [Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Second%20Session.js)
+   - **[Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Second%20Session.js)**
 
      
-  ## Random_Post:
+  ## Random Post:
   - Display random post every minute
-  - [Live Demo](https://ahmedelshinnawi.github.io/Back-End-Summer-Training/JavaScript/Random%20Post/Index)
-  - [JavaScript Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Random%20Post/Third%20Task.js)
-  - [HTML Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Random%20Post/Index.html)
+  - **[Live Demo](https://ahmedelshinnawi.github.io/Back-End-Summer-Training/JavaScript/Random%20Post/Index)**
+  - **Code**:
+    - [JavaScript Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Random%20Post/Third%20Task.js)
+    - [HTML Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Random%20Post/Index.html)
  
-  ## Display_Image:
+  ## Display Image:
   - Display Images in order every minute
-  - [Live Demo](https://ahmedelshinnawi.github.io/Back-End-Summer-Training/JavaScript/Display%20images/index)
-  - [JavaScript Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Display%20images/app.js)
-  - [HTML Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Display%20images/index.html)
+  - **[Live Demo](https://ahmedelshinnawi.github.io/Back-End-Summer-Training/JavaScript/Display%20images/index)**
+  - **Code**:
+    - [JavaScript Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Display%20images/app.js)
+    - [HTML Code](https://github.com/Ahmedelshinnawi/Back-End-Summer-Training/blob/main/JavaScript/Display%20images/index.html)
